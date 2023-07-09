@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <time.h>
 
-long findFibonacciRecursively(int n) {
+long long findFibonacciRecursively(int n) {
   
   if(n <= 1){
     return n;
@@ -26,7 +26,7 @@ int main() {
   clock_t time;
   time = clock();
   
-  printf("\nFibo ke-%d adalah %li\n", n, findFibonacciRecursively(n));
+  printf("\nFibo ke-%d adalah %lli\n", n, findFibonacciRecursively(n));
   
   time = clock() - time;
   double execution_duration = ((double) time)/CLOCKS_PER_SEC;

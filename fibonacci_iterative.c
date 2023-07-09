@@ -5,11 +5,11 @@
 #include <stdio.h>
 #include <time.h>
 
-long findFibonacciIteratively(int n) {
+long long findFibonacciIteratively(int n) {
   
-  long fibo = 0;
-  long current = 1;
-  long prev = 0;
+  long long fibo = 0;
+  long long current = 1;
+  long long prev = 0;
   for (int i = 1; i < n; i++) {
     fibo = current + prev;
     prev = current;
@@ -30,7 +30,7 @@ int main() {
   clock_t time;
   time = clock();
   
-  printf("\nFibo ke-%d adalah %li\n", n, findFibonacciIteratively(n));
+  printf("\nFibo ke-%d adalah %lli\n", n, findFibonacciIteratively(n));
   
   time = clock() - time;
   double execution_duration = ((double) time)/CLOCKS_PER_SEC;
