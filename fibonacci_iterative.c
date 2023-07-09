@@ -39,8 +39,6 @@ int main() {
   
   getchar();
   
-  int arr[n];
-  
   return 0;
 }
 
