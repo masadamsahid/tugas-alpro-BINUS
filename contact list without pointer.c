@@ -7,11 +7,11 @@
 #include <conio.h>
 
 typedef struct Contact_s {
-  char nama[16];
+  char nama[20];
   char no_hp[20];
   char no_kantor[20];
-  char nama_perusahaan[16];
-  char email_address[32];
+  char nama_perusahaan[20];
+  char email_address[20];
 } Contact;
 
 void printPembatas();
@@ -59,7 +59,7 @@ int main(){
   
   
   printPembatas();
-  printf("  | %52s DAFTAR KONTAK %52s |\n", "", "");
+  printf("  | %51s DAFTAR KONTAK %50s |\n", "", "");
   printPembatas();
   printf("  | %-16s | %-20s | %-20s | %-16s | %-32s |\n", "Nama", "No. HP", "No. Kantor", "Nama Perusahaan", "Alamat Email");
   printPembatas();

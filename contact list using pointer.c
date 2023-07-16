@@ -83,7 +83,7 @@ Contact ** inputContacts(int howMany){
 void printContacts(Contact ***pContacts, int length){
   
   printPembatas();
-  printf("  | %52s DAFTAR KONTAK %52s |\n", "", "");
+  printf("  | %51s DAFTAR KONTAK %50s |\n", "", "");
   printPembatas();
   printf("  | %-16s | %-20s | %-20s | %-16s | %-32s |\n", "Nama", "No. HP", "No. Kantor", "Nama Perusahaan", "Alamat Email");
   printPembatas();
