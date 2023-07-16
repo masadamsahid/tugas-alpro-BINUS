@@ -1,0 +1,42 @@
+case1 :
+2
+Masadam Sahid
+6281234567890
+6281111111111
+NEET Corp.
+masadam@mail.com
+Abdel Achrian
+6280000000000
+6289999999999
+Studio Palapa 9
+abdel@palapa9.id
+
+======================================================
+
+case 2:
+5
+Masadam Sahid
+6281234567890
+6281111111111
+NEET Corp.
+masadam@mail.com
+Abdel Achrian
+6280000000000
+6289999999999
+Studio Palapa 9
+abdel@palapa9.id
+Gilbhas
+6282163978621
+6289999999999
+Studio Palapa 9
+gilbhas@palapa9.id
+Mamat Kulimat
+6281276421981
+6289999999999
+Studio Palapa 9
+mamat@palapa9.id
+Abdur Arsyad
+6287216564813
+6282176721467
+Comika
+abdur@comika.id
