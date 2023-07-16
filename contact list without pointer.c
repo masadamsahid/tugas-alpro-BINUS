@@ -7,11 +7,11 @@
 #include <conio.h>
 
 typedef struct Contact_s {
-  char nama[20];
+  char nama[16];
   char no_hp[20];
   char no_kantor[20];
-  char nama_perusahaan[20];
-  char email_address[20];
+  char nama_perusahaan[16];
+  char email_address[32];
 } Contact;
 
 void printPembatas();
