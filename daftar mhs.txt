@@ -1,0 +1,41 @@
+10
+121345
+Bella Hadid
+Sistem Informasi
+3.90
+121346
+Joe Taslim
+Sistem Informasi
+2.95
+121347
+Ayu Ting Ting
+Teknik Informatika
+3.25
+121348
+Emma Watson
+Teknik Informatika
+3.82
+121349
+Mila Kunis
+Teknik Informatika
+2.65
+121350
+Ryan Reynolds
+Teknik Informatika
+2.78
+121351
+Bertrand Petto
+Manajemen Bisnis
+3.00
+121352
+Robert Pattinson
+Manajemen Bisnis
+3.10
+121353
+Lyodra Ginting
+Manajemen Bisnis
+2.92
+121354
+Maudy Ayunda
+Teknik Industri
+2.45
